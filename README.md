@@ -5,7 +5,7 @@
 3. npm run dev<br />
 4. npm install react-icons<br />
 
-# DESIGNNarbar
+# DESIGNNavbar
 This project creates  a navigation bar that adjusts to different screen sizes and is easy to maintain and reuse across your projects.<br />
 
 Learn more about navbar here:<br />
